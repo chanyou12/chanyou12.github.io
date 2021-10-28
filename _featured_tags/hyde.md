@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 점령지
+title: 뭐지?얘는 잘됐었는데?
 slug: hyde
 menu: true
 order: 1
