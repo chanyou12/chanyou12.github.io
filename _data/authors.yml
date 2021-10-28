@@ -30,7 +30,7 @@ author1:
     github:          <username>
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
-    facebook:        <username>
+    #facebook:        <username>
     #google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -47,7 +47,7 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    steam:             플미릴
+    steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
@@ -78,7 +78,6 @@ author2:
   picture:           https://placehold.it/128x128
   twitter:           <username>
   github:            <username>
-  steam:              플미릴
   accent_color:      '#268bd2'
   accent_image:
     background:      '#202020'
