@@ -27,7 +27,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     twitter:         <username>
-    github:          <username>
+    #github:          <username>
     steam:            플미릴
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -48,7 +48,7 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    steam:           <number>
+    #steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
