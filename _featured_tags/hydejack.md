@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 여기아닌거 같은데?
+title: 여기아닌거같은데?
 slug: hydejack
 menu: true
 order: 2
