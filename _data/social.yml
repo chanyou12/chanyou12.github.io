@@ -90,10 +90,10 @@ deviantart:
   name: 500px
   icon: icon-500px
   prepend: "https://500px.com/"
-Steam:
+steam:
   name: Steam
   icon: icon-steam
-  pretend: "http://steamcommunity.com/profiles/"
+  prepend: "http://steamcommunity.com/profiles/"
 dropbox:
   name: Dropbox
   icon: icon-dropbox
