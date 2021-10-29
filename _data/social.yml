@@ -90,7 +90,7 @@ deviantart:
   name: 500px
   icon: icon-500px
   prepend: "https://500px.com/"
-steam:
+Steam:
   name: Steam
   icon: icon-steam
   pretend: "http://steamcommunity.com/profiles/"
