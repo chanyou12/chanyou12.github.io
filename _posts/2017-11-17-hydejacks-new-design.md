@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: Hydejack's New Design
 description: >
   This post introduces Hydejack's now background image, color palette and logo.
