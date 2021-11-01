@@ -1,6 +1,6 @@
 # Config
 # ========================================================================================
-icon: Steam
+
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
@@ -23,6 +23,7 @@ lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 찬유
+icon: Steam
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
