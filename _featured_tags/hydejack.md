@@ -1,7 +1,7 @@
 ---
 layout: list
 title: 여기아닌거같은데?
-slug: hydejack
+slug: 요기요
 menu: true
 order: 3
 description: >
