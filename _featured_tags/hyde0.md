@@ -5,7 +5,7 @@ slug: hyde2
 menu: true
 order: 1
 description: >
-  sadais text.
+    왜그래
 accent_color: '#268bd2'
 accent_image:
   background: '#202020'
