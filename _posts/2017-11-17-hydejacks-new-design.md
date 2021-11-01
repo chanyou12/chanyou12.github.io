@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hydejack's New Design
+title: Hydejack의 새디자인
 description: >
   This post introduces Hydejack's now background image, color palette and logo.
 image: /assets/img/caleb-george.jpg
