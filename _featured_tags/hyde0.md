@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 니가아니었구만?
+title: 니가 아니었구만?
 slug: hyde
 menu: true
 order: 1
