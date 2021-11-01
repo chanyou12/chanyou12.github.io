@@ -1,7 +1,7 @@
 ---
 layout: list
 title: 니가아니었구만?
-slug: hyde0
+slug: hyde
 menu: true
 order: 1
 description: >
