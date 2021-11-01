@@ -1,14 +1,13 @@
 ---
 layout: list
-title: 니가아니었구만?
+title: 사진올리기테스트
 slug: hyde
 menu: true
 order: 1
 description: >
-  왜 안띄어졌다고 버그남?
-  Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-  It’s based on Poole, the Jekyll butler.
+  게임사진을 띄우는 연습을 진행함
   Open `_featured_tags/hyde.md` to edit this text.
 
 ---
-![Hydejack's background image]({{ site.baseurl }}/assets/img/로라겜.jpg){:.lead}
+![rora]({{ site.baseurl }}/assets/img/로라겜.jpg){:.lead}
+![rora]({{ site.baseurl }}/assets/img/로라겜.jpg){:.lead}
