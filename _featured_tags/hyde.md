@@ -9,7 +9,6 @@ description: >
   Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
   It’s based on Poole, the Jekyll butler.
   Open `_featured_tags/hyde.md` to edit this text.
-image: /assets/img/caleb-george.jpg
-hide_image: false
+
 ---
-![Hydejack's background image]({{ site.baseurl }}/assets/img/caleb-george.jpg){:.lead}
+![Hydejack's background image]({{ site.baseurl }}/assets/img/로라겜.jpg){:.lead}
