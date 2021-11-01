@@ -3,7 +3,7 @@ layout: list
 title: 여기아닌거같은데?
 slug: hydejack
 menu: true
-order: 2
+order: 3
 description: >
   맞냐고?
   Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
