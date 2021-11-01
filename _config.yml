@@ -23,10 +23,11 @@ lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 찬유
-home:  Home
+
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
+image:  /assets/img/sidebar-bg.jpg
 description:           >
   위치를 알수없습니다
   Combines the best of static sites and modern web apps.
@@ -35,6 +36,7 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               >
   정찬유 포트폴리오 사이트
+
 
 # A list of keywords for your blog
 keywords:              []
@@ -75,6 +77,7 @@ paginate_path:         /page-:num/
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          '#4fb1ba'
+
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>
