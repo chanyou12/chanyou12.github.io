@@ -64,11 +64,11 @@ copyright:             © 2021. All rights reserved.
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-permalink:             hydejack
+permalink:             pretty
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /page-:num/
+paginate_path:         
 
 
 # Customizaton
