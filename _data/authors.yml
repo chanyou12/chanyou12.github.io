@@ -12,7 +12,7 @@ author1:
     Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
-  picture:           C:/github/web/chanyou12.github.io/assets/icons/icon.png
+  picture:           https://chanyou12.github.io/2021/11/01/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9/
     path:            https://placehold.it/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
