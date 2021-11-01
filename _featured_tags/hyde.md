@@ -12,3 +12,4 @@ description: >
 image: /assets/img/caleb-george.jpg
 hide_image: false
 ---
+![Hydejack's background image]({{ site.baseurl }}/assets/img/caleb-george.jpg){:.lead}
