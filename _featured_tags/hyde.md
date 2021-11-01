@@ -10,4 +10,5 @@ description: >
   It’s based on Poole, the Jekyll butler.
   Open `_featured_tags/hyde.md` to edit this text.
 image: /assets/img/caleb-george.jpg
+hide_image: false
 ---
