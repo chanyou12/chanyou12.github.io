@@ -27,7 +27,7 @@ title:                 찬유
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-image:  /assets/img/sidebar-bg.jpg
+
 description:           >
   위치를 알수없습니다
   Combines the best of static sites and modern web apps.
