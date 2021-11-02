@@ -1,12 +1,11 @@
 ---
 layout: list
-title: 사진올리기테스트
+title: 목록
 slug: hyde
 menu: true
 order: 1
 description: >
-  게임사진을 띄우는 연습을 진행함
-  Open `_featured_tags/hyde.md` to edit this text.
+  지금까지의 기록들
 
 ---
 ![rora]({{ site.baseurl }}/assets/img/로라겜.jpg){:.lead}
