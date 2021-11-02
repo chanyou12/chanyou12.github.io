@@ -22,7 +22,7 @@ baseurl:               ''
 lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 제목
+title:                 민트초코
 
 
 # A short description (~150 chars) of the page used for the meta description tag.
@@ -35,7 +35,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  정찬유 포트폴리오 사이트
+  플미릴의 게임저장소
 
 
 # A list of keywords for your blog

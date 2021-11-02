@@ -2,7 +2,7 @@
 layout: list
 title: 여기아닌거같은데?
 slug: hydejack
-menu: true
+menu: false
 order: 3
 description: >
   맞냐고?
