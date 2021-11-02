@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              정찬유
-  email:             <chan121288@gmail.com>
+  email:             chan121288@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -23,7 +23,7 @@ author1:
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     #facebook:        <username>
-    google:          <number>
+    #google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>

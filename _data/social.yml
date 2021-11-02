@@ -8,7 +8,6 @@ amazon:
 google:
   name: Google
   icon: icon-google
-  prepend:  "chan121288@gmail.com"
 google-plus:
   name: Google+
   icon: icon-google-plus
