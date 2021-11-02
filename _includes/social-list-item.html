@@ -13,7 +13,10 @@
     {% assign name = "Twitter" %}
     {% assign icon = "icon-twitter" %}
     {% assign prep = "https://twitter.com/" %}
-
+  {% elsif platform == "github" %}
+    {% assign name = "GitHub" %}
+    {% assign icon = "icon-github" %}
+    {% assign prep = "https://github.com/" %}
   {% endif %}
 {% endunless %}
 
