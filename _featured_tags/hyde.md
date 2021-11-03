@@ -9,4 +9,3 @@ description: >
 
 ---
 ![rora]({{ site.baseurl }}/assets/img/로라겜.jpg){:.lead}
-![rora]({{ site.baseurl }}/assets/img/로라겜.jpg){:.lead}
