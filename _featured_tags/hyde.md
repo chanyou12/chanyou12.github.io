@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: Home
 title: 목록
 slug: hyde
 menu: true
