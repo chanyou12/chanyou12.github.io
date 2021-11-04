@@ -67,7 +67,7 @@ copyright:             © 2021. All rights reserved.
 permalink:             pretty
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
+paginate:              1
 paginate_path:         /page-:num/
 
 
@@ -112,7 +112,7 @@ hydejack:
   post_addons:         [about, newsletter, related]
 
   # Configure the order of complementary content on project pages
-  project_addons:      false
+  project_addons:      [about, newsletter, other]
 
   # If you do not use Google Fonts, set to `true`.
   no_google_fonts:     false
