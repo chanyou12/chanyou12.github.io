@@ -67,7 +67,7 @@ copyright:             © 2021. All rights reserved.
 permalink:             pretty
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              1
+paginate:              5
 paginate_path:         /page-:num/
 
 
